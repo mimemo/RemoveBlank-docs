@@ -43,8 +43,8 @@ on save.
 
 ### RemoveBlank 2022
 
+- for Arm64 VS2022
 - for VS2022
-
 
 ### RemoveBlank 2019
 
